@@ -1,4 +1,4 @@
-package DSA;
+package DSA;     //to updated on the my code github website account 
 
 public class BinarySearch {
 	public static int search(int [] arr,int target)
