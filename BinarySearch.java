@@ -1,6 +1,6 @@
-package DSA;
+package DSA;     
 
-public class BinarySearch {
+public class BinarySearch {      //this one of the sorting technique
 	public static int search(int [] arr,int target)
 	{
 		int start=0;
